@@ -2,7 +2,7 @@
 title: "Cosive Pty Ltd"
 image: "/images/cosive.png"
 ---
-![Cosive logo]("https://github.com/shannaniggans/cyberanode/blob/main/images/cosive.png)
+![Cosive logo]("https://github.com/shannaniggans/cyberanode/blob/main/images/cosive.png")
 
 # Cosive Pty Ltd
 
