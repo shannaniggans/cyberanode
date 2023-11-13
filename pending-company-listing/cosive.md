@@ -1,3 +1,13 @@
+---
+title: "Cosive Pty Ltd"
+image: "/images/cosive.png"
+---
+
 # Cosive Pty Ltd
 
-:earth_asia: LEVEL 10, TOWER 4, WORLD TRADE CENTRE, 611 FLINDERS STREET, DOCKLANDS VIC, AUSTRALIA
+:office: LEVEL 10, TOWER 4, WORLD TRADE CENTRE, 611 FLINDERS STREET, DOCKLANDS VIC, AUSTRALIA
+
+:flags: Australian owned
+:flags: Private company
+
+:small_blue_diamond: [Visit site](https://www.cosive.com.au)
