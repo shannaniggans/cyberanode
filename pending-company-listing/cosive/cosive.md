@@ -25,7 +25,7 @@ services: [
 
 # Cosive Pty Ltd
 
-![<img src="cosive.png" width="30" />Cosive logo](cosive.png)
+<img src="cosive.png" width="200" />
 
 
 :office: LEVEL 10, TOWER 4, WORLD TRADE CENTRE, 611 FLINDERS STREET, DOCKLANDS VIC, AUSTRALIA
