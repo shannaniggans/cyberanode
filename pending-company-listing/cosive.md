@@ -50,7 +50,7 @@ We offer products and services in a number of different areas, from consulting a
 
 Antifraud is fraud detection software. It provides you with a suite of behavioural biometrics and device fingerpriting data to stop fraud before it happens. It's currently supporting fraud prevention and anti-money laundering strategy at major banks.
 
-### [Smokeproxy - security investigation VPN](https://www.cosive.com/capabilities/vpn-for-investigators)
+### [Smokeproxy - Security investigation VPN](https://www.cosive.com/capabilities/vpn-for-investigators)
 
 Smokeproxy is an invisibility cloak for your security team. It’s a specialised VPN proxy service that helps you carry out more successful malware analysis and fraud investigations.
 
@@ -58,7 +58,15 @@ Smokeproxy is an invisibility cloak for your security team. It’s a specialised
 
 All the benefits of MISP with the convenience of SaaS. Although MISP is extremely powerful it can be difficult and time-consuming for teams to self-host, configure, harden, maintain, and upgrade.CloudMISP is a ready-to-use MISP instance in the cloud, managed for you by a team of security experts with battle-tested MISP experience.
 
-
-
-
 ## Services descriptions
+
+### [Threat Intelligence Engineering](https://www.cosive.com/capabilities/threat-intelligence-engineering)
+
+From developing bespoke CTI tooling to integrating and customising your existing tools, Cosive's threat intelligence engineers are ready to help. Our skilled threat intelligence engineers specialise in developing tailor-made CTI tooling or plugins that enable ideal CTI workflows with minimal wasted time and effort. We've developed custom CTI tooling in use at some of Australia & New Zealand's largest threat intelligence programs.
+
+### [MISP Engineering & Consulting](https://www.cosive.com/capabilities/misp-engineering-consulting)
+
+MISP is the most popular open-source threat intelligence sharing platform and is in use at thousands of enterprise organisations around the globe. Cosive are veteran MISP practitioners, contributors to the MISP project, and our consultants have provided subject matter expertise on MISP to the ACSC. We operate a managed MISP service (CloudMISP) and also provide MISP engineering and consulting services.
+
+Work with Australia & New Zealand's leading MISP experts.
+We provide comprehensive guidance, expertise, and support in effectively implementing, optimising, and utilising the MISP platform to enhance your threat intelligence capabilities. Let us guide you towards unlocking the full potential of MISP.
