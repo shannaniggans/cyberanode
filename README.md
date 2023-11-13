@@ -1,5 +1,7 @@
 # CyberAnode
 
+![CyberAnode Logo](/assets/cyberanode_github.png)
+
 ## Introduction
 
 Welcome to CyberAnode, your go-to directory for verified cybersecurity services in Australia. In response to the evolving digital landscape and the need for a reliable resource, we have created CyberAnode to connect businesses and individuals with reputable cybersecurity companies.
