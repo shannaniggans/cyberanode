@@ -25,11 +25,11 @@ services: [
     "Penetration testing",
     "Code security assessment",
     "Secure software development",
-    "Adversary emulation / red team",
     "Purple teaming",
     "Application security testing",
     "Training & education",
     "Software Reverse Engineering",
+    "Security operations consulting",
 ]
 ---
 
