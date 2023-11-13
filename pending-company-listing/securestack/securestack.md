@@ -1,4 +1,4 @@
---
+---
 title: "SecureStack Pty Ltd"
 image: "securestack-horizontal.png"
 product_categories: [
@@ -39,7 +39,7 @@ Our comprehensive Application Security platform ticks all the boxes:  source cod
 
 SecureStack makes it super easy to implement a successful SBOM program by automating the collection of data required to build SBOMs.  Verify that your applications are secure by design for your partners, vendors, government and compliance bodies.  We handle the whole end-to-end SBOM process with our patented "SBOM Lifecycle".   The end result is you get SBOMs that provide real business value without having to spend weeks inspecting source code.
 
-### [- SDLC Compliance] (https://securestack.com/compliance/)
+### [- SDLC Compliance](https://securestack.com/compliance/)
 
 SecureStack continuously analyzes our customers running web applications, source code, CI/CD processes, and cloud resources to make sure they are meeting their compliance goals.  Our platform collects the evidence and provides it to your vendors, partners or compliance solutions like Vanta, Drata, etc.
 
