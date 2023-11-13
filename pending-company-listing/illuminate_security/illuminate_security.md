@@ -18,7 +18,7 @@ services: [
 :flags: Australian owned
 :flags: Private company
 
-:small_blue_diamond: [Visit site](www.illuminatesecurity.com)
+:small_blue_diamond: [Visit site](https://www.illuminatesecurity.com)
 
 ## Overview
 
