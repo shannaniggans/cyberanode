@@ -31,5 +31,5 @@ Designed to support a constantly changing landscape, Cydarm provides capabilitie
 ## Product descriptions
 ### [Cyber Response Management Platform](https://www.cydarm.com/solutions/enterprise)
 
-Cydarm's Cyber Response Management platform, designed to streamline security operations, enhance collaboration, and accelerate incident response. Our comprehensive solution ensures that your organisation is prepared to tackle the evolving threats targetting essential systems and services. Discover how our tailored playbooks, real-time collaboration features, and industry-specific expertise can fortify your defences and minimize the impact of cyber attacks.
+Defend your infrastructure with Cydarm's Cyber Response Management platform, designed to streamline security operations, enhance collaboration, and accelerate incident response. Our comprehensive solution ensures that your organisation is prepared to tackle the evolving threats targetting essential systems and services. Discover how our tailored playbooks, real-time collaboration features, and industry-specific expertise can fortify your defences and minimize the impact of cyber attacks.
 
