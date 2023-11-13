@@ -9,7 +9,7 @@ product_categories: [
 
 # Cydarm Technologies Pty Ltd
 
-<img src="cydarm.png" width="200" />
+<img src="cydarm_light.png" width="200" />
 
 :office: 121 King St, Melbourne
 
