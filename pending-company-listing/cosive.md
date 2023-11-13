@@ -1,6 +1,6 @@
 ---
 title: "Cosive Pty Ltd"
-image: "/images/cosive.png"
+image: "cosive.png"
 product_categories: [
     "Fraud Prevention",
     "Threat Intelligence",
@@ -25,7 +25,7 @@ services: [
 
 # Cosive Pty Ltd
 
-![Cosive logo](https://github.com/shannaniggans/cyberanode/images/cosive.png)
+![Cosive logo]("cosive.png")
 
 
 :office: LEVEL 10, TOWER 4, WORLD TRADE CENTRE, 611 FLINDERS STREET, DOCKLANDS VIC, AUSTRALIA
