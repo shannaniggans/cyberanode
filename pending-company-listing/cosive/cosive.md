@@ -48,7 +48,7 @@ We offer products and services in a number of different areas, from consulting a
 ## Product descriptions
 ### [Antifraud - Fraud detection software](https://www.cosive.com/capabilities/antifraud)
 
-Antifraud is fraud detection software. It provides you with a suite of behavioural biometrics and device fingerpriting data to stop fraud before it happens. It's currently supporting fraud prevention and anti-money laundering strategy at major banks.
+Antifraud is fraud detection software. It provides you with a suite of behavioural biometrics and device fingerprinting data to stop fraud before it happens. It's currently supporting fraud prevention and anti-money laundering strategy at major banks.
 
 ### [Smokeproxy - Security investigation VPN](https://www.cosive.com/capabilities/vpn-for-investigators)
 
