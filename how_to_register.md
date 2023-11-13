@@ -1,9 +1,19 @@
+# Get your company listed on CyberAnode
 
+We would love to get your Australian based company listed here! In order to do that though, you'll need to follow a bit of a process.
 
+## 1. Create a new issue in the [GitHub repository](https://github.com/shannaniggans/cyberanode/issues/new/choose)
+* Choose the "Company registration request" template.
+* Add your company name into the title: `[Registration request] - your company name Pty Ltd`.
+* Make sure you meet the criteria.
+* Fill out the details as requested and check off the boxes as you go. Most information is required.
+* Products and services should be listed separately, a category should be chosen for each. The categories should be high level but a good description, we'll consolidate categories as we see fit. Some examples can be found [here](categories.md).
+* If you resell any companies, we'll have those as tags on each company profile page, so if someone was looking for a Crowdstrike reseller for example they can filter on those.
 
+Feel free to add extra comments or suggestions.
 
-## What information will I need to register?
-### Contact details including:
+### What information will I need to register?
+#### Contact details including:
 * Australian Business Number (ABN)
 * legal business name or trading name
 * trading address
@@ -13,17 +23,22 @@
 * preferred contact person
 * company logo
 
-## Organisation profile including:
-parent company name and location (if applicable)
+#### Organisation profile including:
+* Parent company name and location (if applicable)
+* public or privately listed
+* number of full time equivalent (FTE) employees in Australia
+* short bio describing your business (max. 1,000 characters)
+* short description of your business solutions offered (max. 1,000 characters)
+* type of products and services offered and a short description and link for each.
 
-public or privately listed
+## 2. Registration validation
+* The team will review the submitted information, verify links, information.
+* Validation will include verification of at least 3 people that know, have used or use the products or services to verify they are accurate.
+* The team will come back to you via the issue with any additional questions or items to validate.
 
-number of full time equivalent (FTE) employees in Australia
+## 3. Pending company listing
+* Once the information has been validated a company listing page will be created in the pending folder. 
+* We will ask you to check the information is correct and ready to publish.
 
-short bio describing your business (max. 1,000 characters)
-
-short description of your business solutions offered (max. 1,000 characters)
-
-type of products and services offered (select from list provided)
-
-type of education or training in cyber security provided (if applicable)
+## 4. Publishing
+* When everything is done and approved the listing will be added to our company listing directory and go live on the website.
