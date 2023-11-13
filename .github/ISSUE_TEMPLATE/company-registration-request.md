@@ -12,6 +12,8 @@ assignees: ''
 * Deliver cybersecurity products or services, category definitions can be [found here](categories.md)
 * Hold a valid Australian Business Number (ABN), operate in Australia, and employ staff in an Australian location.
 
+***
+
 ## Information to provide:
 
 ### Company Details
@@ -46,6 +48,8 @@ assignees: ''
     - [ ] Company A
     - [ ] Company B
     - [ ] ...
+
+***
 
 ## Submission Guidelines
 
