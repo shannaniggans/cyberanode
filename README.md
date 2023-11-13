@@ -6,7 +6,7 @@ Welcome to CyberAnode, your go-to directory for verified cybersecurity services 
 
 ## Purpose
 
-CyberAnode aims to address the shortcomings of existing platforms by providing a curated list of cybersecurity companies that offer verified services. Unlike other directories, we prioritize accuracy and transparency to ensure that users can confidently choose the right cybersecurity partner for their specific needs.
+CyberAnode aims to address the shortcomings of existing platforms by providing a curated list of cybersecurity companies that offer verified services. Unlike other directories, we prioritise accuracy and transparency to ensure that users can confidently choose the right cybersecurity partner for their specific needs.
 
 ## Features
 
@@ -27,7 +27,7 @@ CyberAnode aims to address the shortcomings of existing platforms by providing a
 
 ## Why Choose CyberAnode?
 
-- **Reliability:** We prioritize accuracy and reliability in our directory, ensuring that the listed companies meet stringent criteria.
+- **Reliability:** We prioritise accuracy and reliability in our directory, ensuring that the listed companies meet stringent criteria.
   
 - **Transparency:** CyberAnode provides transparent information about each cybersecurity company, empowering users to make informed decisions.
 
