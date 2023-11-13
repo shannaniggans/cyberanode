@@ -13,6 +13,7 @@ Categories were last updated on November 13, 2023.
 - Purple teaming
 - Application security testing
 - Training & education
+- Managed detection & response
 
 ## Product categories
 - Application Control
@@ -35,6 +36,7 @@ Categories were last updated on November 13, 2023.
 - Database Security
 - DDoS Protection
 - Deception-Based Security
+- Detection Bounty Platform
 - Digital Forensic Investigation and Computer Forensics
 - Digital Rights Management
 - Digital Risk Monitoring
