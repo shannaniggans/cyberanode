@@ -36,18 +36,25 @@ assignees: ''
 - [ ] **Short Bio Describing Your Business (max. 1,000 characters):**
 - [ ] **Short Description of Your Business Solutions Offered (max. 1,000 characters):**
 
-## Product development
-- [ ] **Type of Products and Services Offered (select from list provided):**
-    - [ ] Product A
-    - [ ] Product B
-    - [ ] Product C
-    - [ ] ...
+***
 
-## Product and service reseller
-- [ ] **You can list the products and services you resell here:**
-    - [ ] Company A
-    - [ ] Company B
-    - [ ] ...
+The following is information about the products and services that you provide.
+
+### [Product A](link to product site)
+Product_category: 
+Product description, maximum 50 words.
+
+### [Service A](link to service site)
+Service_category: 
+Service description, maximum 50 words.
+
+***
+If you resell products or services, you can add them here, please use this format so we can easily create the tags:
+
+reseller: [
+    "Company A",
+    "Company B",
+]
 
 ***
 
