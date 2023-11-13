@@ -1,6 +1,6 @@
 ---
 title: "Illuminate Security Pty Ltd"
-image: "282351293-fcdabc81-0dc1-40a9-a37f-e00cc8cbd937.png"
+image: "illuminate_security.png"
 product_categories: [
     "Detection Bounty Platform",
 ]
@@ -11,7 +11,7 @@ services: [
 
 # Illuminate Security Pty Ltd
 
-<img src="282351293-fcdabc81-0dc1-40a9-a37f-e00cc8cbd937.png" width="200" />
+<img src="illuminate_security.png" width="200" />
 
 :office: PO Box 470 Concord NSW 2137
 
