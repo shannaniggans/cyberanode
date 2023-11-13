@@ -1,0 +1,83 @@
+# Categories
+
+There are SO MANY categories that can be listed here. try and keep the categories to a minimum and be generic enough to group your product and service together with others. If the category isn't listed here, then just add what you think to your request and we'll take a look and review.
+
+Categories were last updated on November 13, 2023.
+
+## Service categories
+- Security engineering & integration
+- Penetration testing
+- Code security assessment
+- Secure software development
+- Adversary emulation / red team
+- Purple teaming
+- Application security testing
+- Training & education
+
+## Product categories
+- Application Control
+- Application Security Testing
+- Authentication (User Authentication, Biometric Authentication, and PKI)
+- Automotive Cyber Security
+- Behaviour Analytics (User and Entity)
+- Big Data Security
+- Browser Security (Secure Virtual Browser and Remote Browser)
+- Cloud Access Security Broker
+- Cloud Security
+- Compliance Management
+- Container Security
+- Cyber Maneuver (Network Masking)
+- Cyber Threat Hunting
+- Data Discovery
+- Data Loss (Leakage) Prevention (DLP)
+- Data Masking
+- Data Security
+- Database Security
+- DDoS Protection
+- Deception-Based Security
+- Digital Forensic Investigation and Computer Forensics
+- Digital Rights Management
+- Digital Risk Monitoring
+- Embedded Security
+- Endpoint Protection and Anti-virus
+- Endpoint Threat Detection and Response
+- File Content Security
+- Firewall Configuration and Management
+- Fraud Prevention
+- Governance/Compliance Management
+- Hypervisor Security
+- Identity and Access Management
+- Identity Theft Detection
+- Industrial Security (ICS/SCADA Security)
+- Internet of Things (IoT) Security
+- Intrusion Prevention Systems (and Intrusion Detection Systems)
+- Malware Detection and Analysis
+- Managed Security Service Providers
+- Messaging Security
+- Mobile Data Protection
+- Mobile Device Management
+- Network Access Control
+- Network Behavior Analysis and Anomaly Detection
+- Network Firewall (includes Next Generation Firewalls)
+- Network Monitoring and Forensics
+- Password Manager
+- Patch Configuration and Management
+- Penetration Testing
+- Risk and Compliance Management
+- Risk and Vulnerability Assessment
+- Secure File Transfer
+- Secure Web Gateway
+- Security Configuration Management
+- Security Incident Management and Response
+- Security Information and Event Management (and Log Management)
+- Security Operations Automation and Orchestration
+- Security Training Software
+- Specialized Threat Analysis and Protection
+- SSL and Digital Certificate Authority and Management
+- Threat Intelligence
+- Trusted Computing, Cross-Domain Security, and Multi-Level Security
+- Unified Threat Management
+- Vulnerability Assessment
+- Virtual Private Networks
+- Web Application Firewall
+- Wireless Intrusion Detection System
