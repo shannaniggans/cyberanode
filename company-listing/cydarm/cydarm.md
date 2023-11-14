@@ -22,9 +22,9 @@ product_categories: [
 
 Cydarm is an Australian developed and supported software platform for collaborative Cyber Case and Incident Management. Cydarm's focus is on giving SOC staff the most friction-free case handling experience, and better collaboration with other stakeholder groups.
 
-## Cybersecurity solutions
+## Cyber security solutions
 
-We believe cybersecurity is a team sport, and good teamwork relies on effective communication and coordination of effort across different domain expertise with an enduring level of trust. Our approach combines best practice in security operations, comprehensive information capture, and flexible access control, to ensure that teams of any size and composition can respond to threats consistently and quickly.
+We believe cyber security is a team sport, and good teamwork relies on effective communication and coordination of effort across different domain expertise with an enduring level of trust. Our approach combines best practice in security operations, comprehensive information capture, and flexible access control, to ensure that teams of any size and composition can respond to threats consistently and quickly.
 
 Designed to support a constantly changing landscape, Cydarm provides capabilities that cover a comprehensive set of needs for security operations teams. These include case management, data enrichment, integrations, editable playbooks, reporting, collaboration, and response time SLAs.
 

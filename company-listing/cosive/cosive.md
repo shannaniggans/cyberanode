@@ -51,7 +51,7 @@ We provide repeatable solutions to Australasia's toughest security challenges. �
 
 Founded in 2015, Cosive is led by industry veterans Kayne Naughton (CEO), Terry MacDonald (COO) and Chris Horsley (CTO). Our leadership team has 48 years of combined security experience.
 
-## Cybersecurity solutions
+## Cyber security solutions
 
 We offer products and services in a number of different areas, from consulting and training, to bespoke software development and custom Cosive-developed products. We work with you to identify enhancements you can make to improve your Security Operations. We can help you integrate best-of-breed security tools into your team’s workflow. We are focused on providing threat intelligence management platforms, security orchestration, intelligence feeds, integration and consulting services, STIX/TAXII consultancy, and incident response guidance. We also offer malware analysis solutions, endpoint protection, and intelligence enrichment systems.
 
@@ -122,11 +122,11 @@ Our services include:
 * Custom security tooling development
 * Security tool integration development
 * Security software design & architecture
-* Custom cybersecurity dashboards & analysis
+* Custom cyber security dashboards & analysis
 
-### [Cybersecurity Training](https://www.cosive.com/cybersecurity-training)
+### [Cyber security Training](https://www.cosive.com/cyber security-training)
 
-We provide cybersecurity training both in-person and remotely throughout Australia and New Zealand, including to organisations in Melbourne, Sydney, Canberra, Brisbane, Darwin, Perth, Hobart, Wellington, Christchurch and Auckland.
+We provide cyber security training both in-person and remotely throughout Australia and New Zealand, including to organisations in Melbourne, Sydney, Canberra, Brisbane, Darwin, Perth, Hobart, Wellington, Christchurch and Auckland.
 
 Our training courses include:
 * Introduction to STIX, TAXII and CybOX
@@ -136,11 +136,11 @@ Our training courses include:
 * Open source intelligence for SOC analysts
 * MISP Kickstart
 
-### [Tabletop exercises & Crisis Simulation](https://www.cosive.com/capabilities/cybersecurity-tabletop-exercises)
+### [Tabletop exercises & Crisis Simulation](https://www.cosive.com/capabilities/cyber security-tabletop-exercises)
 
 We provide realistic cyber security scenarios to test your response plans and capabilities.
 
 * In our approach to simulations, we incorporate aspects of functional exercising along with technical exercising and/or major incident testing.
 * We use a tabletop exercise format to ensure the exercise is appropriately contained (and doesn’t impact your actual operations). We plan and deliver the exercise in a scheduled and structured manner.
 * Your TTX facilitator will work with you to identify your objectives and to ensure that we have an understanding of the functional and/or technical aspects we are testing.
-* We use our experience in cybersecurity incident response to develop a realistic scenario supported by appropriate details and visual aids (exercise injects).
+* We use our experience in cyber security incident response to develop a realistic scenario supported by appropriate details and visual aids (exercise injects).

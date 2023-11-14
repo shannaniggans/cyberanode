@@ -9,7 +9,7 @@ assignees: ''
 
 ## To register, companies must meet the following criteria:
 
-* Deliver cybersecurity products or services, category definitions can be [found here](categories.md)
+* Deliver cyber security products or services, category definitions can be [found here](categories.md)
 * Hold a valid Australian Business Number (ABN), operate in Australia, and employ staff in an Australian location.
 
 ***

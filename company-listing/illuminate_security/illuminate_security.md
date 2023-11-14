@@ -24,7 +24,7 @@ services: [
 
 We help organisations solve complex security operations challenges with novel and unique products and solutions.
 
-## Cybersecurity solutions
+## Cyber security solutions
 
 We are the pioneers in community powered managed detection & response services. Through detection bounty programs your organisation can achieve scalable, reliable, effective and sustainable cyber threat detection capabilities.
 

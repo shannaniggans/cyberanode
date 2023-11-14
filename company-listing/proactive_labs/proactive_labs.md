@@ -19,9 +19,9 @@ services: [
 
 ## Overview
 
-Proactive Labs is a boutique cyber security company, offering a different perspective on cyber issues. We aim to help our clients in their domain, by offering our experience in ours. We are highly skilled and experienced cybersecurity professionals offering comprehensive, yet boutique cybersecurity services to businesses and organisations. With extensive professional experience, we possess an in-depth understanding of the dynamic Canberra market. To cater to its specific and unique needs, we offer tailored and customised solutions. We provide services such as penetration testing, threat emulation, code review, and bespoke research.
+Proactive Labs is a boutique cyber security company, offering a different perspective on cyber issues. We aim to help our clients in their domain, by offering our experience in ours. We are highly skilled and experienced cyber security professionals offering comprehensive, yet boutique cyber security services to businesses and organisations. With extensive professional experience, we possess an in-depth understanding of the dynamic Canberra market. To cater to its specific and unique needs, we offer tailored and customised solutions. We provide services such as penetration testing, threat emulation, code review, and bespoke research.
 
-## Cybersecurity solutions
+## Cyber security solutions
 
 * Penetration Testing
 * Web application penetration testing
