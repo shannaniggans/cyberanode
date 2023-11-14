@@ -42,11 +42,11 @@ The following is information about the products and services that you provide.
 
 ### [Product A](link to product site)
 Product_category: 
-Product description, maximum 50 words.
+Product description, maximum 500 words.
 
 ### [Service A](link to service site)
 Service_category: 
-Service description, maximum 50 words.
+Service description, maximum 500 words.
 
 ***
 If you resell products or services, you can add them here, please use this format so we can easily create the tags:
