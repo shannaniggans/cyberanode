@@ -9,7 +9,7 @@ assignees: ''
 
 ## To register, companies must meet the following criteria:
 
-* Deliver cybersecurity products or services, category definitions can be [found here](categories.md)
+* Deliver cyber security products or services, category definitions can be [found here](categories.md)
 * Hold a valid Australian Business Number (ABN), operate in Australia, and employ staff in an Australian location.
 
 ***
@@ -35,6 +35,7 @@ assignees: ''
 - [ ] **Number of Full-Time Equivalent (FTE) Employees in Australia:**
 - [ ] **Short Bio Describing Your Business (max. 1,000 characters):**
 - [ ] **Short Description of Your Business Solutions Offered (max. 1,000 characters):**
+- [ ] **Socials:** Link us your socials for your profile page.
 
 ***
 
@@ -42,11 +43,11 @@ The following is information about the products and services that you provide.
 
 ### [Product A](link to product site)
 Product_category: 
-Product description, maximum 50 words.
+Product description, maximum 500 words.
 
 ### [Service A](link to service site)
 Service_category: 
-Service description, maximum 50 words.
+Service description, maximum 500 words.
 
 ***
 If you resell products or services, you can add them here, please use this format so we can easily create the tags:
