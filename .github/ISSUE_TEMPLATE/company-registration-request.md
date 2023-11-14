@@ -35,6 +35,7 @@ assignees: ''
 - [ ] **Number of Full-Time Equivalent (FTE) Employees in Australia:**
 - [ ] **Short Bio Describing Your Business (max. 1,000 characters):**
 - [ ] **Short Description of Your Business Solutions Offered (max. 1,000 characters):**
+- [ ] **Socials:** Link us your socials for your profile page.
 
 ***
 
