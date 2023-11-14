@@ -12,7 +12,7 @@ services: [
 
 # SourceCodeRED
 
-<img src="sourcecodered.png" width="200" />
+<img src="sourcecodered.png" width="300" />
 
 :office: 16 Nexus Way, Southport, QLD 4213
 
