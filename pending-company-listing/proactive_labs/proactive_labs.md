@@ -10,7 +10,7 @@ services: [
 
 <img src="proactive_labs.jpg" width="300" />
 
-:office: Level 4, 152 Elizabeth Street, Melbourne, VIC, 3000
+:office: Suite 78 M Centre 11 Palmerston Lane Manuka ACT 2603
 
 :flags: Australian owned
 :flags: Private company
