@@ -43,7 +43,7 @@ services: [
 :flags: Australian owned
 :flags: Private company
 
-:small_blue_diamond: [Visit site](https://www.cosive.com.au)
+:small_blue_diamond: [Visit site](https://www.cosive.com)
 
 ## Overview
 
