@@ -1,14 +1,11 @@
 ---
 title: "SecureStack Pty Ltd"
 image: "securestack-horizontal.png"
-product_categories: [
-    "Application Security",
-    "DevSecOps",
-    "Secure SDLC",
-]
-reseller: [
-    "SecureStack"
-]
+product_categories:
+- Application Security
+reseller:
+- SecureStack
+
 ---
 
 # SecureStack Pty Ltd

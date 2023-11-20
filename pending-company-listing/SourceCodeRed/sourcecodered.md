@@ -1,13 +1,10 @@
 ---
 title: "SourceCodeRED"
 image: "sourcecodered.png"
-services: [
-    "DevSecOps Consultancy",
-    "Managed DevSecOps",
-    "Secure Software Development",
-    "Software Development Red Team Training",
-    "Penetration Testing",
-]
+services:
+- Secure Software Development
+- Penetration Testing
+
 ---
 
 # SourceCodeRED

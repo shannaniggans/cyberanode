@@ -1,13 +1,12 @@
 ---
 title: "Volkis Pty Ltd"
 image: "Volkis_Logo.svg"
-services: [
-    "Penetration testing",
-    "Adversary emulation / red team",
-    "Training & education",
-    "Governance, Risk, and Compliance",
-    "Attack surface reduction",
-]
+services:
+- Penetration testing
+- Security Education & Training
+- Governance, Risk, and Compliance
+- Security Assurance Services
+
 ---
 
 # Volkis Pty Ltd

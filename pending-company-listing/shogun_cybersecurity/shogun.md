@@ -1,12 +1,9 @@
 ---
 title: "Shogun Cybersecurity Pty Ltd"
 image: "shogun.png"
-services: [
-    "vCISO",
-    "Security Consulting",
-    "Governance, Risk, and Compliance",
-    "Security Maturity Consulting",
-]
+services:
+- Security Consulting
+- Governance, Risk, and Compliance
 ---
 
 # Shogun Cybersecurity Pty Ltd

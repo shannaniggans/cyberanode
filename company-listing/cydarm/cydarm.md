@@ -2,7 +2,7 @@
 title: "Cydarm Technologies Pty Ltd"
 image: "cydarm.png"
 product_categories: [
-    "Security Incident Management and Response",
+    "Incident Response & Forensic Tools",
 ]
 
 ---

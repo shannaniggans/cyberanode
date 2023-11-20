@@ -3,8 +3,8 @@ title: "Cosive Pty Ltd"
 image: "cosive.png"
 product_categories: [
     "Fraud Prevention",
-    "Threat Intelligence",
-    "Virtual Private Networks",
+    "Threat Intelligence Products",
+    "Firewalls and Network Security",
 ]
 reseller: [
     "Crowdstrike",
@@ -22,14 +22,11 @@ reseller: [
 ]
 services: [
     "Security engineering & integration",
-    "Penetration testing",
-    "Code security assessment",
-    "Secure software development",
-    "Purple teaming",
-    "Application security testing",
-    "Training & education",
-    "Software Reverse Engineering",
-    "Security operations consulting",
+    "Penetration Testing",
+    "Secure Software Development",
+    "Security Assurance Services ",
+    "Security Education & Training",
+    "Security Consulting",
 ]
 ---
 
@@ -124,7 +121,7 @@ Our services include:
 * Security software design & architecture
 * Custom cyber security dashboards & analysis
 
-### [Cyber security Training](https://www.cosive.com/cyber security-training)
+### [Cyber security Training](https://www.cosive.com/cybersecurity-training)
 
 We provide cyber security training both in-person and remotely throughout Australia and New Zealand, including to organisations in Melbourne, Sydney, Canberra, Brisbane, Darwin, Perth, Hobart, Wellington, Christchurch and Auckland.
 
@@ -136,7 +133,7 @@ Our training courses include:
 * Open source intelligence for SOC analysts
 * MISP Kickstart
 
-### [Tabletop exercises & Crisis Simulation](https://www.cosive.com/capabilities/cyber security-tabletop-exercises)
+### [Tabletop exercises & Crisis Simulation](https://www.cosive.com/capabilities/cybersecurity-tabletop-exercises)
 
 We provide realistic cyber security scenarios to test your response plans and capabilities.
 

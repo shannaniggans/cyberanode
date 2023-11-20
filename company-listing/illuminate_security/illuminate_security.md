@@ -2,7 +2,7 @@
 title: "Illuminate Security Pty Ltd"
 image: "illuminate_security.png"
 product_categories: [
-    "Detection Bounty Platform",
+    "Managed Detection & Response",
 ]
 services: [
     "Managed Detection & Response",

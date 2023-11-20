@@ -1,10 +1,9 @@
 ---
 title: "Shea Security Pty Ltd"
 image: "shea_security.png"
-services: [
-    "Penetration testing",
-    "Security Training",
-]
+services:
+- Penetration testing
+- Security Education & Training
 ---
 
 # Shea Security Pty Ltd
